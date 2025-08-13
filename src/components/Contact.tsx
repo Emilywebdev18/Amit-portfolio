@@ -38,7 +38,7 @@ const Contact = () => {
               </CardHeader>
               <CardContent>
                 <p className="text-muted-foreground group-hover:text-foreground transition-colors">
-                  Amit.striveup@gmail.com
+                  amit.striveup@gmail.com
                 </p>
               </CardContent>
             </Card>
